@@ -1,0 +1,11 @@
+<configuration>
+    <chatMessageFormat>$dir$ [$date$ $time$] [$nick$]: $message$</chatMessageFormat>
+    <connection>
+        <networkTypes>SOCKET</networkTypes>
+        <server>false</server>
+        <ip>192.168.2.104</ip>
+        <serverPort>9292</serverPort>
+        <shutdownTime>600000</shutdownTime>
+        <cleanerInterval>600000</cleanerInterval>
+    </connection>
+</configuration>

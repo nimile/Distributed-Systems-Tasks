@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE configuration SYSTEM "config.dtd">
+<configuration>
+    <connection>
+        <networkTypes>SOCKET</networkTypes>
+        <server>false</server>
+        <ip>192.168.2.104</ip>
+        <serverPort>9292</serverPort>
+    </connection>
+</configuration>

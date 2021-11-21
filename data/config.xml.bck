@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE configuration SYSTEM "config.dtd">
+<configuration>
+    <connection>
+        <networkTypes>SOCKET</networkTypes>
+        <ip>192.168.2.104</ip>
+        <serverPort>9292</serverPort>
+        <timeout>60000</timeout>
+        <shutdownTime>60000</shutdownTime>
+        <server>true</server>
+    </connection>
+</configuration>

@@ -1,0 +1,21 @@
+<!ELEMENT configuration (chatMessageFormat*, connection, user*)>
+<!--
+$dir$ [$date$ $time$] [$nick$]: $message$
+-->
+<!ELEMENT chatMessageFormat (#PCDATA)>
+<!ELEMENT connection (networkTypes, server, ip, serverPort, timeout*, shutdownTime*, cleanerInterval*)>
+<!--
+Server IP: 192.168.2.104
+Broadcast IP: 192.168.2.255
+Multicast IP: 224.1.1.1
+-->
+<!ELEMENT networkTypes (#PCDATA)>
+<!ELEMENT server (#PCDATA)>
+<!ELEMENT ip (#PCDATA)>
+<!ELEMENT serverPort (#PCDATA)>
+<!ELEMENT timeout (#PCDATA)>
+<!ELEMENT shutdownTime (#PCDATA)>
+<!ELEMENT cleanerInterval (#PCDATA)>
+<!ELEMENT user (nick, uid)>
+<!ELEMENT nick (#PCDATA)>
+<!ELEMENT uid (#PCDATA)>

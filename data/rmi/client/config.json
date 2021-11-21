@@ -1,0 +1,8 @@
+{
+  "connection": {
+    "networkTypes": "RMI",
+    "server": false,
+    "ip": "192.168.2.104",
+    "serverPort": 9292
+  }
+}

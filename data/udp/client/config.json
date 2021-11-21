@@ -1,0 +1,12 @@
+{
+  "connection": {
+    "networkTypes": "UDP",
+    "server": false,
+    "ip": "192.168.2.104",
+    "serverPort": 9292
+  },
+  "user": {
+    "nick": "Client user2",
+    "uid": "a23e4ff7-1614-47fe-b037-e09fdf4d7a26"
+  }
+}

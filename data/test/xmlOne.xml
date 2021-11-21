@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration>
+    <connection>
+        <networkTypes>RMI</networkTypes>
+        <server>true</server>
+        <ip>192.168.2.104</ip>
+        <serverPort>9292</serverPort>
+    </connection>
+    <tic>Hello</tic>
+    <tac>
+        <toe>BAUM</toe>
+    </tac>
+</configuration>

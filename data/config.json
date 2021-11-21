@@ -1,0 +1,15 @@
+{
+  "user": {
+    "nick": "Nils",
+    "uid": "6e184c3f-fc0c-44b5-a762-8994cda35cb4"
+  },
+  "connection": {
+    "networkTypes": "BROADCAST",
+    "server": true,
+    "ip": "192.168.2.255",
+    "serverPort": 9292,
+    "shutdownTime": 600000,
+    "cleanerInterval": 600000
+  },
+  "chatMessageFormat": "$dir$ [$date$ $time$] [$nick$]: $message$"
+}

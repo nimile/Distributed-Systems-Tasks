@@ -1,0 +1,13 @@
+{
+  "connection": {
+    "networkTypes": "RMI",
+    "server": true,
+    "ip": "192.168.2.104",
+    "serverPort": 9292
+  },
+  "user": {
+    "nick": "Server user",
+    "uid": "7a88108c-9596-4676-b4f1-bb941418bd9a"
+  },
+  "chatMessageFormat": "$dir$ [$date$ $time$] [$nick$]: $message$"
+}

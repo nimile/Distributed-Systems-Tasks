@@ -1,0 +1,15 @@
+<configuration>
+    <chatMessageFormat>$dir$ [$date$ $time$] [$nick$]: $message$</chatMessageFormat>
+    <connection>
+        <networkTypes>RMI</networkTypes>
+        <server>false</server>
+        <ip>192.168.2.104</ip>
+        <serverPort>9292</serverPort>
+        <shutdownTime>600000</shutdownTime>
+        <cleanerInterval>600000</cleanerInterval>
+    </connection>
+    <user>
+        <nick>Nils</nick>
+        <uid>5cecae7f-a147-4209-a499-9380aa101c83</uid>
+    </user>
+</configuration>
